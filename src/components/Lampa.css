@@ -1,0 +1,13 @@
+.lampa {
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+}
+
+.fel {
+    background-color: green;
+}
+
+.le {
+    background-color: yellow;
+}
